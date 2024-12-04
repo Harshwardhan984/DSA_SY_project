@@ -1,0 +1,59 @@
+                                         * Project Synopsis *
+
+Project Name: Pune Metro Navigator: A Data Structure-Based Route Optimization System
+
+
+Participants (Div. 2 S1) -
+
+    Harshwardhan Mane : 612303112
+    Prathamesh Mardane : 612303113
+
+
+1. Objective:
+    The objective of this project is to develop a route optimization system for Pune Metro using Doubly Linked Lists and Graphs. The system will allow users to input their start and destination addresses and receive an optimized metro route, including total distance, travel time, and fare estimation.
+
+2. Problem Description:
+    Finding the optimal metro route while managing multiple metro lines and changes is a challenge. The system aims to solve this by mapping the metro network with Graphs and using Doubly Linked Lists to track metro station connections, making the system efficient for retrieving routes and handling changes.
+
+3. Data Structures Used:
+    Graph:
+        The core data structure used to model the Pune Metro network. Nodes represent metro stations, while edges represent the paths between stations. The graph will store the connectivity and distances between stations.
+
+    Doubly Linked List:
+        Each metro station will be connected to adjacent stations using a Doubly Linked List. This enables efficient forward and backward traversal, making it easier to navigate between stations and find the shortest path even when switching metro lines.
+
+4. Algorithms Employed:
+    Graph Traversal Algorithms (Dijkstra's or BFS):
+        Used to find the shortest and optimal route between the user's start and destination stations. The algorithm will traverse the graph to compute the minimum distance and time.
+
+    Doubly Linked List Operations:
+        Doubly Linked Lists will be used to efficiently manage metro line stations, allowing quick access to both previous and next stations during route computation, especially during lane changes.
+
+5. Input:
+    User Address:   
+        Input starting and destination addresses.
+    Graph Data:
+        Metro station and route information, modeled as a graph with metro stations as nodes and routes as edges.
+    Fare Information:
+        Pre-defined fare structure for fare estimation based on the distance traveled.
+6. Output:
+    Nearest Metro Stations:
+        Identifies the closest metro stations to the starting and destination addresses.
+    Optimal Route:
+        Provides the best route with necessary station changes using the shortest path algorithm.
+    Travel Time & Distance:
+        Estimates total walking time and metro travel time based on the distance between stations.
+    Fare Estimation:
+            Computes the fare based on the distance traveled and any lane switches.
+7. Real-World Applications:
+    Commuters:
+        This tool will help daily metro users find the most efficient route, saving time and travel cost.
+    Tourists:
+        Tourists can easily navigate through Pune Metro to visit different destinations with real-time route optimization.
+    Urban Planners:
+        Can analyze metro route usage and plan future expansions based on data-driven insights.
+8. Future Enhancements:
+    Real-Time Updates:
+        The system can be expanded to include live metro schedules, delays, and dynamic route recalculation.
+    Integration with Other Transport Systems:
+        Future iterations could integrate buses or ride-sharing services to provide a complete multi-modal transit solution.
