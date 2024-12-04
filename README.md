@@ -24,20 +24,25 @@ Requirements
    - metro.c
    - metromain.c
    - matrixmakecheak.c
+   - metro.h
+   - metroMatrix.h
+   - [All csv and txt files( Data files )]
 
 
 How to Run the Project
 
 1. Compile the Source Code:
    Open a terminal and execute the following command to compile the project:
+   
    gcc -Wall -c metro.c metromain.c matrixmakecheak.c -lm
+   
    cc metro.o metromain.o matrixmakecheak.o -o project -lm
 
-2. Run the Program:
+3. Run the Program:
    Execute the compiled binary to run the project:
    ./project
 
-3. Provide Inputs:
+4. Provide Inputs:
    - Enter your starting address.
    - Enter your destination address.
    The system will output the nearest metro stations, the optimal route, total travel time, and fare estimation.
