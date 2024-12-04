@@ -1,0 +1,91 @@
+Line 1 (Purple Line) Stations
+
+
+Bhakti Shakti Chowk 18°39'49.1"N 73°46'20.8"E Latitude: 18.663639° N Longitude: 73.772444° E
+Nigdi
+Akurdi
+Chinchwad
+PCMC Bhavan
+Sant Tukaram Nagar
+Nashik Phata
+Kasarwadi
+Phugewadi
+Dapodi
+Bopodi
+Khadki
+Range Hill
+Shivaji Nagar
+Civil Court
+Budhwar Peth
+Mahatma Phule Market
+Swargate
+Pushmangal Chowk
+Shankar Maharaj Mutt
+Katraj
+
+
+Line 2 (Aqua Line) Stations
+
+
+Vanaz
+Anand Nagar
+Ideal Colony
+Nal Stop
+Garware College
+Deccan Gymkhana
+Chhatrapati Sambhaji Udyan
+PMC
+Civil Court
+Mangalwar Peth
+ Pune Railway Station
+Ruby Hall Clinic
+Bund Garden
+Yerwada
+Kalyani Nagar
+Ramwadi
+
+
+
+
+
+Line 1 (Purple Line) Stations
+
+Bhakti Shakti Chowk - Latitude: 18.6637° N, Longitude: 73.7724° E
+Nigdi - Latitude: 18.6581° N, Longitude: 73.7658° E
+Akurdi - Latitude: 18.6462° N, Longitude: 73.7571° E
+Chinchwad - Latitude: 18.6298° N, Longitude: 73.7686° E
+PCMC Bhavan - Latitude: 18.6187° N, Longitude: 73.7863° E
+Sant Tukaram Nagar - Latitude: 18.6125° N, Longitude: 73.7972° E
+Nashik Phata - Latitude: 18.6002° N, Longitude: 73.8142° E
+Kasarwadi - Latitude: 18.5890° N, Longitude: 73.8231° E
+Phugewadi - Latitude: 18.5803° N, Longitude: 73.8282° E
+Dapodi - Latitude: 18.5645° N, Longitude: 73.8309° E
+Bopodi - Latitude: 18.5552° N, Longitude: 73.8361° E
+Khadki - Latitude: 18.5471° N, Longitude: 73.8508° E
+Range Hill - Latitude: 18.5334° N, Longitude: 73.8621° E
+Shivaji Nagar - Latitude: 18.5302° N, Longitude: 73.8534° E
+Civil Court - Latitude: 18.5169° N, Longitude: 73.8554° E
+Budhwar Peth - Latitude: 18.5161° N, Longitude: 73.8594° E
+Mahatma Phule Market - Latitude: 18.5142° N, Longitude: 73.8606° E
+Swargate - Latitude: 18.5010° N, Longitude: 73.8617° E
+Pushmangal Chowk - Latitude: 18.4960° N, Longitude: 73.8668° E
+Shankar Maharaj Mutt - Latitude: 18.4857° N, Longitude: 73.8712° E
+Katraj - Latitude: 18.4566° N, Longitude: 73.8824° E
+Line 2 (Aqua Line) Stations
+
+Vanaz - Latitude: 18.5085° N, Longitude: 73.8078° E
+Anand Nagar - Latitude: 18.5078° N, Longitude: 73.8166° E
+Ideal Colony - Latitude: 18.5107° N, Longitude: 73.8211° E
+Nal Stop - Latitude: 18.5128° N, Longitude: 73.8273° E
+Garware College - Latitude: 18.5164° N, Longitude: 73.8335° E
+Deccan Gymkhana - Latitude: 18.5192° N, Longitude: 73.8346° E
+Chhatrapati Sambhaji Udyan - Latitude: 18.5214° N, Longitude: 73.8381° E
+PMC - Latitude: 18.5232° N, Longitude: 73.8394° E
+Civil Court - Latitude: 18.5169° N, Longitude: 73.8554° E
+Mangalwar Peth - Latitude: 18.5267° N, Longitude: 73.8645° E
+Pune Railway Station - Latitude: 18.5288° N, Longitude: 73.8745° E
+Ruby Hall Clinic - Latitude: 18.5310° N, Longitude: 73.8766° E
+Bund Garden - Latitude: 18.5339° N, Longitude: 73.8792° E
+Yerwada - Latitude: 18.5498° N, Longitude: 73.8948° E
+Kalyani Nagar - Latitude: 18.5548° N, Longitude: 73.9065° E
+Ramwadi - Latitude: 18.5614° N, Longitude: 73.9135° E
